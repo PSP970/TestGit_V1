@@ -10,6 +10,8 @@ namespace TestGit_V1
             // primo commit e push
             // secondo commit e push
 
+            Console.WriteLine("terzo push");
+
         }
     }
 }
