@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace TestGit_V1
 {
@@ -15,7 +16,16 @@ namespace TestGit_V1
             //creazione del primo branch Feature_1
             Console.WriteLine("ho creato il primo branch: Feature_1");
 
+            // LISTE
 
+            //List<int> numeri = new List<int>();
+            
+
+        }
+
+        static void Lista()
+        {
+            
         }
     }
 }
